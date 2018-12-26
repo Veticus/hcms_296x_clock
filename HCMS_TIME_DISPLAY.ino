@@ -11,6 +11,10 @@
 //  clockPin         -D2    - HCMS-2963 PIN6
 //  enable           -D3    - HCMS-2963 PIN7
 //  reset            -D4    - HCMS-2963 PIN12
+//  Connect pins 8 and 9 to GND
+//  Connect pins 3, 10 and 11 to VCC
+
+
 //  LedDisplay method takes 5 pins and an integer.
 //  The last integer is the number of chars.
 //  The other pins are as indicated here - in the order indicated.
