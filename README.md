@@ -16,7 +16,7 @@ A desk/nightstand clock using Avago HCMS-296x series 4-digit 5*7 LED Displays. (
 
 ##### The hardware steps
 ###### (I'm assuming you know how to use a breadboard)
-1. Plug the D1 and the display into the breadboard
+1. Plug the Photon and the display into the breadboard
 2. Connect pin _4_ of the display to the _D0_ pin on the Photon
 3. Connect pin _5_ to _D1_
 4. Connect pin _6_ to _D2_
