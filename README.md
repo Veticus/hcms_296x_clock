@@ -1,6 +1,5 @@
 # hcms_296x_clock
 A desk/nightstand clock using Avago HCMS-296x series 4-digit 5*7 LED Displays.
-![alt text](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg "idunno")
 
 
 ### Usage with a Particle Photon on a breadboard
@@ -60,3 +59,5 @@ Some great examples can be found in PaulStoffregen's Arduino Library for the dis
 
 ## License
 See the ``LICENSE`` file.
+![alt text](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg "idunno")
+
