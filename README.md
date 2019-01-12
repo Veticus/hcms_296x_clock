@@ -59,5 +59,6 @@ Some great examples can be found in PaulStoffregen's Arduino Library for the dis
 
 ## License
 See the ``LICENSE`` file.
-![alt text](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg "idunno")
 
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-trains.svg)](https://forthebadge.com)
